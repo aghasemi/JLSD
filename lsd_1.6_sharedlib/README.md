@@ -1,7 +1,7 @@
 LSD - Line Segment Detector
 ===========================
 
-JLSD Note: This is a modified/minified version of the original LSD 1.6, since for JLSD to work, we just need to build liblsd and not the complete command and call example. For the original program see https://github.com/Paul-Darius/ipol-matlab/tree/master/lsd_1.6. The rest of this document is copied from the original source code. 
+__JLSD Note: This is a modified/minified version of the original LSD 1.6, since for JLSD to work, we just need to build liblsd and not the complete command and call example. For the original program see https://github.com/Paul-Darius/ipol-matlab/tree/master/lsd_1.6. The rest of this document is copied from the original source code. __
 
 Version 1.6 - November 11, 2011
 by Rafael Grompone von Gioi <grompone@gmail.com>
